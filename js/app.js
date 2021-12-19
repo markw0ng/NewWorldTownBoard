@@ -10,12 +10,8 @@ $(document).ready(function(){
     $.getJSON("projects.json", function(data){
         projects = data;
         console.log(projects);
-    });   
-
-    $('#activeProjects').html(JSON.stringify(shopping_list, undefined, 2));
-
         drawProjectQuests(projects);
-
+    });     
 
     $(document).on('click','#projects .projectBoard',function(e){
 
