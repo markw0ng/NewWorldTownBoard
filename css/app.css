@@ -1,0 +1,67 @@
+.mainTitle {
+    text-align : center;
+}
+#projects, #subProjects {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+.projectBoard{
+    border: 1px solid #503b15;
+    padding: 1em;
+    width: 200px;
+    height: auto;
+    margin: auto;
+    background: #11100d;
+    overflow: hidden;
+    cursor: pointer;
+}.projectBoard.tier1{
+    height: auto;
+}.projectBoard.tier1 h3{
+    font-size: 1em;
+}.projectBoard .projectBoardInner{
+    padding: 10px;
+    border: 1px solid #2a2827;
+    height: 100%;
+}.projectBoard.tier1 .projectBoardInner{
+}.projectBoard h3{
+    text-align: center;
+    font-size: 0.8em;
+}.shoppingItem h3, .basketItem h3{
+    font-size: 0.8em;
+}#shoppingBasket h4, #shoppingList h4{
+    text-align: center;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}.shoppingItem-delete{
+    cursor: pointer;
+    position: absolute;
+    top: 18px;
+    right: 18px;
+    font-size: 0.8em;
+    color: red;
+}#subProjects {
+    margin-top: 1em;
+    margin-bottom : 2em;
+}.shoppingItem {
+    position: relative;
+    border: 1px solid #2a2827;
+    margin-bottom: 0.5em;
+    padding: 1em;
+    list-style: none;
+}
+#shoppingBasket{
+    background: #fff;
+    padding: 1em;
+}#shoppingBasket h4{
+    color: #000;
+}#shoppingBasket .basketItems{
+    padding: 2em;
+}#shoppingBasket .basketItems li{
+    list-style: none;
+    color: #000;
+    margin-bottom: 1em;
+    border-bottom: 1px solid #eaeaea;
+}#shoppingBasket .basketItems li .basketQty{
+    font-size: 1.6em;
+}
