@@ -1,6 +1,23 @@
+/* general */
+body {
+    background: #1e1e1e;
+    color: #fff;
+}
+
 .mainTitle {
     text-align : center;
+    margin-bottom: 2em;
 }
+
+
+
+
+
+/* project boards */
+.projectsWrapper {
+    padding: 2em;
+}
+
 #projects, #subProjects {
     display: flex;
     flex-flow: row wrap;
@@ -23,33 +40,37 @@
     padding: 10px;
     border: 1px solid #2a2827;
     height: 100%;
-}.projectBoard.tier1 .projectBoardInner{
 }.projectBoard h3{
     text-align: center;
-    font-size: 0.8em;
-}.shoppingItem h3, .basketItem h3{
     font-size: 0.8em;
 }#shoppingList h4, #activeProjects h4{
     text-align: center;
     margin-bottom: 1em;
     margin-top: 1em;
-}.shoppingItem-delete{
+}#subProjects {
+    margin-top: 1em;
+    margin-bottom : 2em;
+}
+
+/* active projects */
+.activeProject {
+    position: relative;
+    border: 1px solid #2a2827;
+    margin-bottom: 0.5em;
+    padding: 1em;
+    list-style: none;
+}.activeProject-delete{
     cursor: pointer;
     position: absolute;
     top: 18px;
     right: 18px;
     font-size: 0.8em;
     color: red;
-}#subProjects {
-    margin-top: 1em;
-    margin-bottom : 2em;
-}.shoppingItem {
-    position: relative;
-    border: 1px solid #2a2827;
-    margin-bottom: 0.5em;
-    padding: 1em;
-    list-style: none;
+}.activeProject h3, .basketItem h3{
+    font-size: 0.8em;
 }
+
+/* shoppingList */
 #shoppingList{
     background: #fff;
     padding: 1em;
