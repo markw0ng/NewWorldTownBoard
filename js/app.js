@@ -45,6 +45,16 @@ var projects = {
                     {"Bread" : 12}
                 ]
             }
+        },{
+            "Baking Stockpile" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Sugar" : 15},
+                    {"Egg" : 15},
+                    {"Flour" : 15},
+                    {"Yeast" : 15}
+                ]
+            }
         }
     ],
     "Fisherfolk Needed" : [
@@ -73,11 +83,36 @@ var projects = {
                 ]
             }
         },
+
+        {
+            "20 Firm Fish Filet" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fisht1.png",
+                "items" : [
+                    {"Firm Fish Filet" : 20}
+                ]
+            }
+        },         
         {
             "30 Firm Fish Filet" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fisht1.png",
                 "items" : [
                     {"Firm Fish Filet" : 30}
+                ]
+            }
+        }, 
+        {
+            "5 Large Salmon" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fishingsalmonlarget1.png",
+                "items" : [
+                    {"Large Salmon" : 5}
+                ]
+            }
+        }, 
+        {
+            "30 Fish Oil" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fishoilt1.png",
+                "items" : [
+                    {"Fish Oil" : 30}
                 ]
             }
         },                                    
@@ -90,7 +125,22 @@ var projects = {
                     {"Strong Mana Potion" : 1}
                 ]
             }
-        }
+        },{
+            "15 Common Mana Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionmanat2.png",
+                "items" : [
+                    {"Common Mana Potion" : 15}
+                ]
+            }
+        },
+        {
+            "15 Common Regeration Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionregent2.png",
+                "items" : [
+                    {"Common Regeration Potion" : 15}
+                ]
+            }
+        }        
     ],
     "Lumberjacks Needed" : [
         {
@@ -119,7 +169,51 @@ var projects = {
                 ]
             }
         }         
-    ]
+    ],
+    "Weaponsmithers Needed" : [
+        {
+            "Crushing Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ingot" : 5},
+                    {"Timber" : 12},
+                    {"Coarse Leather" : 8},
+                ]
+            }
+        }         
+    ],
+    "Metalworkers Needed" : [
+        {
+            "50 Iron Ingot" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/ingott2.png",
+                "items" : [
+                    {"Iron Ingot" : 50}
+                ]
+            }
+        }         
+    ],
+    "Armorsmithers Needed" : [
+        {
+            "Set of Rugged Crude Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ore" : 14},
+                    {"Rawhide" : 6},
+                    {"Fibers" : 10}
+                ]
+            }
+        }         
+    ],
+    "Supplies Needed" : [
+        {
+            "40 Oil" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/oilt1.png",
+                "items" : [
+                    {"Oil" : 40}
+                ]
+            }
+        }         
+    ],
 };
 var shopping_list = [];
 var basket = [];  
