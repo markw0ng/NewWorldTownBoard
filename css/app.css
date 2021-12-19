@@ -29,7 +29,7 @@
     font-size: 0.8em;
 }.shoppingItem h3, .basketItem h3{
     font-size: 0.8em;
-}#shoppingBasket h4, #shoppingList h4{
+}#shoppingList h4, #activeProjects h4{
     text-align: center;
     margin-bottom: 1em;
     margin-top: 1em;
@@ -50,18 +50,18 @@
     padding: 1em;
     list-style: none;
 }
-#shoppingBasket{
+#shoppingList{
     background: #fff;
     padding: 1em;
-}#shoppingBasket h4{
+}#shoppingList h4{
     color: #000;
-}#shoppingBasket .basketItems{
+}#shoppingList .basketItems{
     padding: 2em;
-}#shoppingBasket .basketItems li{
+}#shoppingList .basketItems li{
     list-style: none;
     color: #000;
     margin-bottom: 1em;
     border-bottom: 1px solid #eaeaea;
-}#shoppingBasket .basketItems li .basketQty{
+}#shoppingList .basketItems li .basketQty{
     font-size: 1.6em;
 }
