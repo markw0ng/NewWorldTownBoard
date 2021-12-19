@@ -1,0 +1,50 @@
+{
+    "Cooks Needed" : [
+        {"20 Light Ration" : [
+            { "Light Ration" : 20}
+        ]},
+        {"5 Travel Ration" : [
+           {"Travel Ration" : 5}
+        ]},
+        {"15 Travel Ration" : [
+           {"Travel Ration" : 15}
+        ]},            
+        {"Condiment Supplies" :[
+           {"Salt" : 12},
+           {"Peppercorn" : 12},
+           {"Cooking Oil" : 12}
+        ]},            
+        {"Carb Supplies" :[
+           {"Potato" : 12},
+           {"Pasta" : 12},
+           {"Bread" : 12}
+        ]}
+    ],
+    "Fisherfolk Needed" : [
+        {"15 Fish Filet" : [
+            {"Fish Filet" : 15}
+        ]},
+        {"30 Fish Filet" : [
+            {"Fish Filet" : 30}
+        ]},
+        {"15 Firm Fish Filet" : [
+            {"Firm Fish Filet" : 15}
+        ]},
+        {"30 Firm Fish Filet" : [
+            {"Firm Fish Filet" : 30}
+        ]}                                    
+    ],
+    "Alchemists Needed" : [
+        {"1 Strong Mana Potion" : [
+            {"Strong Mana Potion" : 1}
+        ]}
+    ],
+    "Lumberjacks Needed" : [
+        {"150 Green Wood" : [
+            {"Green Wood" : 150}
+        ]},
+        {"550 Green Wood" : [
+            {"Green Wood" : 550}
+        ]}            
+    ]
+}
