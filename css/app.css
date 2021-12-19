@@ -32,6 +32,7 @@ body {
     background: #11100d;
     overflow: hidden;
     cursor: pointer;
+    margin-bottom: 1em;
     background: url('../img/boardBG.jpg') repeat;
 }.projectBoard.tier1{
     height: auto;

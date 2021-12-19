@@ -180,7 +180,152 @@ var projects = {
                     {"Coarse Leather" : 8},
                 ]
             }
-        }         
+        },
+        {
+            "Plundering Crude Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ore" : 10},
+                    {"Green Wood" : 10},
+                    {"Rawhide" : 10},
+                ]
+            }
+        },{
+            "Bulwark Crude Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ore" : 15},
+                    {"Green Wood" : 3},
+                    {"Rawhide" : 12},
+                ]
+            }
+        },{
+            "Impaling Crude Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ore" : 8},
+                    {"Green Wood" : 14},
+                    {"Rawhide" : 8},
+                ]
+            }
+        },{
+            "Bruising Crude Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ore" : 20},
+                    {"Green Wood" : 20},
+                    {"Rawhide" : 10},
+                ]
+            }
+        },{
+            "Cleaving Crude Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ore" : 15},
+                    {"Green Wood" : 10},
+                    {"Rawhide" : 25},
+                ]
+            }
+        },{
+            "Ransacking Crude Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ore" : 10},
+                    {"Green Wood" : 20},
+                    {"Rawhide" : 20},
+                ]
+            }
+        },{
+            "Gashing Crude Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ore" : 30},
+                    {"Green Wood" : 30},
+                    {"Rawhide" : 30},
+                ]
+            }
+        },{
+            "Reaving Crude Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ore" : 50},
+                    {"Green Wood" : 15},
+                    {"Rawhide" : 25},
+                ]
+            }
+        },{
+            "Pillaging Crude Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ore" : 25},
+                    {"Green Wood" : 40},
+                    {"Rawhide" : 25},
+                ]
+            }
+        },{
+            "Plundering Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ingot" : 6},
+                    {"Timber" : 7},
+                    {"Coarse Leather" : 7},
+                ]
+            }
+        },{
+            "Bulwark Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ingot" : 5},
+                    {"Timber" : 10},
+                    {"Coarse Leather" : 5},
+                ]
+            }
+        },{
+            "Impaling Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ingot" : 4},
+                    {"Timber" : 4},
+                    {"Coarse Leather" : 12},
+                ]
+            }
+        },{
+            "Impaling Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ingot" : 6},
+                    {"Timber" : 7},
+                    {"Coarse Leather" : 7},
+                ]
+            }
+        },{
+            "Bruising Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ingot" : 15},
+                    {"Timber" : 5},
+                    {"Coarse Leather" : 5},
+                ]
+            }
+        },{
+            "Ransacking Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ingot" : 12},
+                    {"Timber" : 16},
+                    {"Coarse Leather" : 12},
+                ]
+            }
+        },{
+            "Gashing Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ingot" : 20},
+                    {"Timber" : 15},
+                    {"Coarse Leather" : 5},
+                ]
+            }
+        }               
     ],
     "Metalworkers Needed" : [
         {
@@ -202,7 +347,137 @@ var projects = {
                     {"Fibers" : 10}
                 ]
             }
-        }         
+        },
+        {
+            "Set of Toughened Crude Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ore" : 9},
+                    {"Rawhide" : 9},
+                    {"Fibers" : 12}
+                ]
+            }
+        },
+        {
+            "Set of Stout Crude Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ore" : 7},
+                    {"Rawhide" : 15},
+                    {"Fibers" : 8}
+                ]
+            }
+        },
+        {
+            "Set of Hardened Crude Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ore" : 20},
+                    {"Rawhide" : 15},
+                    {"Fibers" : 15}
+                ]
+            }
+        },
+        {
+            "Set of Stalwart Crude Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ore" : 18},
+                    {"Rawhide" : 14},
+                    {"Fibers" : 18}
+                ]
+            }
+        },
+        {
+            "Set of Unyielding Crude Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ore" : 20},
+                    {"Rawhide" : 10},
+                    {"Fibers" : 20}
+                ]
+            }
+        },
+        {
+            "Set of Impenetrable Crude Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ore" : 12},
+                    {"Rawhide" : 12},
+                    {"Fibers" : 25}
+                ]
+            }
+        },
+        {
+            "Set of Rugged Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ingot" : 5},
+                    {"Coarse Leather" : 5},
+                    {"Linen" : 10}
+                ]
+            }
+        },
+        {
+            "Set of Toughened Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ingot" : 10},
+                    {"Coarse Leather" : 5},
+                    {"Linen" : 5}
+                ]
+            }
+        },
+        {
+            "Set of Stout Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ingot" : 5},
+                    {"Coarse Leather" : 10},
+                    {"Linen" : 5}
+                ]
+            }
+        },
+        {
+            "Set of Hardened Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ingot" : 10},
+                    {"Coarse Leather" : 5},
+                    {"Linen" : 10}
+                ]
+            }
+        },
+        {
+            "Set of Stalwart Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ingot" : 5},
+                    {"Coarse Leather" : 10},
+                    {"Linen" : 10}
+                ]
+            }
+        },
+        {
+            "Set of Unyielding Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ingot" : 10},
+                    {"Coarse Leather" : 10},
+                    {"Linen" : 5}
+                ]
+            }
+        },
+        {
+            "Set of Impenetrable Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ingot" : 13},
+                    {"Coarse Leather" : 13},
+                    {"Linen" : 14}
+                ]
+            }
+        }               
     ],
     "Supplies Needed" : [
         {
@@ -261,6 +536,30 @@ $(document).ready(function(){
         drawActiveProjects();
 
     });
+
+    var byId = document.getElementById.bind(document);
+
+    function updateTime()
+    {
+      var
+        time = new Date(),
+        // take 1800 seconds (30 minutes) and substract the remaining minutes and seconds
+        // 30 minutes mark is rest of (+30 divided by 60); *60 in seconds; substract both, mins & secs
+        secsRemaining = 3600 - (time.getUTCMinutes()+30)%60 * 60 - time.getUTCSeconds(),
+        // integer division
+        mins = Math.floor(secsRemaining / 60),
+        secs = secsRemaining % 60
+      ;
+      //byId('min-total').textContent = secsRemaining;
+      byId('min-part').textContent  = mins;
+      byId('sec-part').textContent  = secs;
+  
+      // let's be sophisticated and get a fresh time object
+      // to calculate the next seconds shift of the clock
+      setTimeout( updateTime, 1000 - (new Date()).getUTCMilliseconds() );
+    }
+    updateTime();
+  
 
     
 });
