@@ -1,18 +1,22 @@
+
+// initialise variables for later
 var projects = {};
 var shopping_list = [];
 var basket = [];  
 
 
+// on page ready
 $(document).ready(function(){
 
-    console.log('ready');
-
+    // load project json file into variable projects
     $.getJSON("projects.json", function(data){
         projects = data;
         console.log(projects);
         drawProjectQuests(projects);
     });     
 
+
+    // on click of main project board category
     $(document).on('click','#projects .projectBoard',function(e){
 
         var subtype = $(this).data('type');
@@ -21,6 +25,7 @@ $(document).ready(function(){
 
     });
 
+    // on click of sub projects
     $(document).on('click','#subProjects .projectBoard',function(e){
 
         var type = $(this).data('type');
@@ -32,8 +37,8 @@ $(document).ready(function(){
 
     });
 
-
-    $(document).on('click','.activeProjects-delete',function(e){
+    // on click of deletion of project
+    $(document).on('click','.activeProject-delete',function(e){
 
         var index = $(this).closest('.activeProject').data('index');
         shopping_list.splice(index, 1);
@@ -42,9 +47,9 @@ $(document).ready(function(){
     });
 
     
-
 });
 
+// redraw projects
 function drawProjectQuests(projects){
 
     $.each(projects, function(index,jsonObject){
@@ -55,6 +60,8 @@ function drawProjectQuests(projects){
 
 }
 
+
+// redraw project subquests
 function drawProjectSubQuests(projects,type){
 
     $('#subProjects').html('');
@@ -73,18 +80,18 @@ function drawProjectSubQuests(projects,type){
 
 }
 
+
+// draw active projects
 function drawActiveProjects(){
     
-    $('#activeProjects').html('<h4>Active Projects (' + shopping_list.length + ')</h4><ul class="shoppingItems"></ul>');
+    $('#activeProjects').html('<h4>Active Projects (' + shopping_list.length + ')</h4><ul class="activeProjects"></ul>');
 
 
     $.each(shopping_list, function(index,jsonObject){
 
         $.each(jsonObject, function(key,val){
 
-            //console.log(jsonObject);
-
-            $('#activeProjects .shoppingItems').append('<li class="shoppingItem" data-index="' + index + '" data-type="" data-subtype="' + key + '"><h3>' + key + '</h3><span class="shoppingItem-delete">X</span></li>');
+            $('#activeProjects .activeProjects').append('<li class="activeProject" data-index="' + index + '" data-type="" data-subtype="' + key + '"><h3>' + key + '</h3><span class="activeProject-delete">X</span></li>');
 
         });            
 
@@ -92,10 +99,10 @@ function drawActiveProjects(){
     });
 
     drawShoppingList();
-    //$('#activeProjects').html(JSON.stringify(shopping_list, undefined, 2));
 
 }
 
+// draw shopping list
 function drawShoppingList(){
 
     $('#shoppingList').html('<h4>Shopping List</h4><ul class="basketItems"></ul>');
@@ -125,10 +132,6 @@ function drawShoppingList(){
 
 
             });
-
-            //console.log(jsonObject);
-
-            //$('.basketItems').append('<li class="basketItem" data-index="' + index + '" data-type="" data-subtype="' + key + '"><h3>' + key + '</h3></li>');
 
         });            
 
