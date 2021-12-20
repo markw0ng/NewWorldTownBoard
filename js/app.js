@@ -3,6 +3,22 @@
 var projects = {
     "Cooks Needed" : [
         {
+            "5 Light Ration" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/foodhealthrecoveryt1.png",
+                "items" : [
+                    { "Light Ration" : 5}
+                ]
+            }
+        },        
+        {
+            "15 Light Ration" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/foodhealthrecoveryt1.png",
+                "items" : [
+                    { "Light Ration" : 15}
+                ]
+            }
+        },        
+        {
             "20 Light Ration" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/foodhealthrecoveryt1.png",
                 "items" : [
@@ -19,13 +35,53 @@ var projects = {
             }
         },
         {
+            "10 Travel Ration" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/foodhealthrecoveryt2.png",
+                "items" : [
+                    { "Travel Ration" : 10}
+                ]
+            }
+        },        
+        {
             "15 Travel Ration" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/foodhealthrecoveryt2.png",
                 "items" : [
                     { "Travel Ration" : 15}
                 ]
             }
-        },            
+        }, 
+        {
+            "5 Energizing Light Ration" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/foodmanat1.png",
+                "items" : [
+                    { "Energizing Light Ration" : 5}
+                ]
+            }
+        },
+        {
+            "10 Energizing Light Ration" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/foodmanat1.png",
+                "items" : [
+                    { "Energizing Light Ration" : 10}
+                ]
+            }
+        },         
+        {
+            "15 Energizing Light Ration" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/foodmanat1.png",
+                "items" : [
+                    { "Energizing Light Ration" : 15}
+                ]
+            }
+        },         
+        {
+            "20 Energizing Light Ration" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/foodmanat1.png",
+                "items" : [
+                    { "Energizing Light Ration" : 20}
+                ]
+            }
+        },                   
         {
             "Condiment Supplies" :{
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
@@ -33,6 +89,58 @@ var projects = {
                     {"Salt" : 12},
                     {"Peppercorn" : 12},
                     {"Cooking Oil" : 12}
+                ]
+            }
+        },                   
+        {
+            "Condiment Provisions" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Salt" : 8},
+                    {"Peppercorn" : 8},
+                    {"Cooking Oil" : 8}
+                ]
+            }
+        },                   
+        {
+            "Condiment Stockpile" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Salt" : 15},
+                    {"Peppercorn" : 15},
+                    {"Cooking Oil" : 15},
+                    {"Seasoning Blend" : 15},
+                ]
+            }
+        },            
+        {
+            "Carb Supplies" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Potato" : 12},
+                    {"Pasta" : 12},
+                    {"Bread" : 12}
+                ]
+            }
+        },           
+        {
+            "Cereal Supplies" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Barley" : 12},
+                    {"Nut" : 12},
+                    {"Honey" : 12},
+                ]
+            }
+        },                    
+        {
+            "Cereal Stockpile" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Barley" : 15},
+                    {"Nut" : 15},
+                    {"Honey" : 15},
+                    {"Wheat" : 15},
                 ]
             }
         },            
@@ -55,10 +163,145 @@ var projects = {
                     {"Yeast" : 15}
                 ]
             }
+        },{
+            "Perennial Herb Provisions" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Thyme" : 8},
+                    {"Sage" : 8},
+                    {"Mint" : 8},
+                ]
+            }
+        },{
+            "Perennial Herb Stockpile" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Thyme" : 15},
+                    {"Sage" : 15},
+                    {"Mint" : 15},
+                    {"Tarragon" : 15},
+                ]
+            }
+        },{
+            "Sweet Juice Rations" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Cranberry" : 5},
+                    {"Sugar" : 5},
+                    {"Water" : 5},
+                ]
+            }
+        },{
+            "Canned Fish Provisions" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Fish Filet" : 8},
+                    {"Firm Fish Filet" : 8},
+                    {"Fish Oil" : 8},
+                ]
+            }
+        },{
+            "Canned Fish Stockpile" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Fish Filet" : 15},
+                    {"Firm Fish Filet" : 15},
+                    {"Fish Oil" : 15},
+                    {"Squid Meat" : 15},
+                ]
+            }
+        },{
+            "Canned Fish Supplies" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Fish Filet" : 12},
+                    {"Firm Fish Filet" : 12},
+                    {"Fish Oil" : 12},
+                ]
+            }
+        },{
+            "Canned Fish Rations" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Fish Filet" : 5},
+                    {"Dill" : 5},
+                    {"Fish Oil" : 5},
+                ]
+            }
+        },{
+            "Canned Fish Samples" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Fish Filet" : 3},
+                    {"Fish Oil" : 3},
+                ]
+            }
+        },{
+            "Spice Provisions" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Nutmeg" : 8},
+                    {"Paprika" : 8},
+                    {"Ginger" : 8},
+                ]
+            }
+        },{
+            "Spice Stockpile" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Nutmeg" : 15},
+                    {"Paprika" : 15},
+                    {"Ginger" : 15},
+                    {"Cinnamon" : 15},
+                ]
+            }
+        },{
+            "Exotic Herb Provisions" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Basil" : 8},
+                    {"Oregano" : 8},
+                    {"Parsley" : 8},
+                ]
+            }
+        },{
+            "Quality Meat Supplies" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Red Meat" : 12},
+                    {"Venison" : 12},
+                    {"Sausage" : 12},
+                ]
+            }
+        },{
+            "Meat Jerky Rations" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Pork" : 5},
+                    {"Salt" : 5},
+                    {"Sugar" : 5},
+                ]
+            }
+        },{
+            "Breakfast Rations" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Egg" : 5},
+                    {"Bread" : 5},
+                    {"Sausage" : 5},
+                ]
+            }
         }
     ],
     "Fisherfolk Needed" : [
-
+        {
+            "10 Fish Filet" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fisht1.png",
+                "items" : [
+                    {"Fish Filet" : 10}
+                ]
+            }
+        },        
         {
             "15 Fish Filet" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fisht1.png",
@@ -75,6 +318,14 @@ var projects = {
                 ]
             }
         },
+        {
+            "10 Firm Fish Filet" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fisht1.png",
+                "items" : [
+                    {"Firm Fish Filet" : 10}
+                ]
+            }
+        },        
         {
             "15 Firm Fish Filet" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fisht1.png",
@@ -107,7 +358,31 @@ var projects = {
                     {"Large Salmon" : 5}
                 ]
             }
-        }, 
+        },
+        {
+            "5 Fish Oil" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fishoilt1.png",
+                "items" : [
+                    {"Fish Oil" : 5}
+                ]
+            }
+        },   
+        {
+            "10 Fish Oil" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fishoilt1.png",
+                "items" : [
+                    {"Fish Oil" : 10}
+                ]
+            }
+        },             
+        {
+            "15 Fish Oil" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fishoilt1.png",
+                "items" : [
+                    {"Fish Oil" : 15}
+                ]
+            }
+        },          
         {
             "30 Fish Oil" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fishoilt1.png",
@@ -115,14 +390,100 @@ var projects = {
                     {"Fish Oil" : 30}
                 ]
             }
-        },                                    
+        },          
+        {
+            "5 Nightcrawler Bait" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/baitsaltnightcrawlert2.png",
+                "items" : [
+                    {"Nightcrawler Bait" : 5}
+                ]
+            }
+        },          
+        {
+            "10 Nightcrawler Bait" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/baitsaltnightcrawlert2.png",
+                "items" : [
+                    {"Nightcrawler Bait" : 10}
+                ]
+            }
+        },          
+        {
+            "15 Nightcrawler Bait" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/baitsaltnightcrawlert2.png",
+                "items" : [
+                    {"Nightcrawler Bait" : 15}
+                ]
+            }
+        },          
+        {
+            "15 Woodlouse Bait" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/baitfreshwoodlicet2.png",
+                "items" : [
+                    {"Woodlouse Bait" : 15}
+                ]
+            }
+        },          
+        {
+            "20 Woodlouse Bait" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/baitfreshwoodlicet2.png",
+                "items" : [
+                    {"Woodlouse Bait" : 20}
+                ]
+            }
+        },          
+        {
+            "30 Woodlouse Bait" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/baitfreshwoodlicet2.png",
+                "items" : [
+                    {"Woodlouse Bait" : 30}
+                ]
+            }
+        }                                    
     ],
     "Alchemists Needed" : [
         {
-            "1 Strong Mana Potion" : {
-                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionmanat3.png",
+            "1 Weak Mana Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionmanat1.png",
                 "items" : [
-                    {"Strong Mana Potion" : 1}
+                    {"Weak Mana Potion" : 1}
+                ]
+            }
+        }, 
+        {
+            "5 Weak Mana Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionmanat1.png",
+                "items" : [
+                    {"Weak Mana Potion" : 5}
+                ]
+            }
+        },
+        {
+            "10 Weak Mana Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionmanat1.png",
+                "items" : [
+                    {"Weak Mana Potion" : 10}
+                ]
+            }
+        },
+        {
+            "20 Weak Mana Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionmanat1.png",
+                "items" : [
+                    {"Weak Mana Potion" : 20}
+                ]
+            }
+        },{
+            "5 Common Mana Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionmanat2.png",
+                "items" : [
+                    {"Common Mana Potion" : 5}
+                ]
+            }
+        },{
+            "10 Common Mana Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionmanat2.png",
+                "items" : [
+                    {"Common Mana Potion" : 10}
                 ]
             }
         },{
@@ -132,15 +493,234 @@ var projects = {
                     {"Common Mana Potion" : 15}
                 ]
             }
-        },
-        {
-            "15 Common Regeration Potion" : {
-                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionregent2.png",
+        },{
+            "20 Common Mana Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionmanat2.png",
                 "items" : [
-                    {"Common Regeration Potion" : 15}
+                    {"Common Mana Potion" : 20}
                 ]
             }
-        }        
+        },                      
+        {
+            "1 Strong Mana Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionmanat3.png",
+                "items" : [
+                    {"Strong Mana Potion" : 1}
+                ]
+            }
+        },                     
+        {
+            "2 Strong Mana Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionmanat3.png",
+                "items" : [
+                    {"Strong Mana Potion" : 2}
+                ]
+            }
+        },                             
+        {
+            "3 Strong Mana Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionmanat3.png",
+                "items" : [
+                    {"Strong Mana Potion" : 3}
+                ]
+            }
+        },                              
+        {
+            "5 Strong Mana Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionmanat3.png",
+                "items" : [
+                    {"Strong Mana Potion" : 5}
+                ]
+            }
+        },                      
+        {
+            "10 Strong Mana Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionmanat3.png",
+                "items" : [
+                    {"Strong Mana Potion" : 10}
+                ]
+            }
+        },        
+        {
+            "5 Common Regeneration Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionregent2.png",
+                "items" : [
+                    {"Common Regeneration Potion" : 5}
+                ]
+            }
+        },
+        {
+            "10 Common Regeneration Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionregent2.png",
+                "items" : [
+                    {"Common Regeneration Potion" : 10}
+                ]
+            }
+        },                
+        {
+            "15 Common Regeneration Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionregent2.png",
+                "items" : [
+                    {"Common Regeneration Potion" : 15}
+                ]
+            }
+        },                
+        {
+            "20 Common Regeneration Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionregent2.png",
+                "items" : [
+                    {"Common Regeneration Potion" : 20}
+                ]
+            }
+        },
+        {
+            "5 Strong Regeneration Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionregent3.png",
+                "items" : [
+                    {"Strong Regeneration Potion" : 5}
+                ]
+            }
+        },
+        {
+            "10 Strong Regeneration Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionregent3.png",
+                "items" : [
+                    {"Strong Regeneration Potion" : 10}
+                ]
+            }
+        },                
+        {
+            "15 Strong Regeneration Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionregent3.png",
+                "items" : [
+                    {"Strong Regeneration Potion" : 15}
+                ]
+            }
+        },                
+        {
+            "20 Strong Regeneration Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionregent3.png",
+                "items" : [
+                    {"Strong Regeneration Potion" : 20}
+                ]
+            }
+        },
+        {
+            "1 Powerful Regeneration Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionregent4.png",
+                "items" : [
+                    {"Powerful Regeneration Potion" : 1}
+                ]
+            }
+        },
+        {
+            "2 Powerful Regeneration Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionregent4.png",
+                "items" : [
+                    {"Powerful Regeneration Potion" : 2}
+                ]
+            }
+        },
+        {
+            "3 Powerful Regeneration Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionregent4.png",
+                "items" : [
+                    {"Powerful Regeneration Potion" : 3}
+                ]
+            }
+        },                
+        {
+            "5 Powerful Regeneration Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionregent4.png",
+                "items" : [
+                    {"Powerful Regeneration Potion" : 5}
+                ]
+            }
+        },        {
+            "1 Weak Health Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionhealtht1.png",
+                "items" : [
+                    {"Weak Health Potion" : 1}
+                ]
+            }
+        },{
+            "3 Weak Health Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionhealtht1.png",
+                "items" : [
+                    {"Weak Health Potion" : 3}
+                ]
+            }
+        },{
+            "5 Strong Health Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionhealtht1.png",
+                "items" : [
+                    {"Strong Health Potion" : 5}
+                ]
+            }
+        },{
+            "10 Common Health Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionhealtht1.png",
+                "items" : [
+                    {"Common Health Potion" : 10}
+                ]
+            }
+        },        {
+            "1 Common Health Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionhealtht2.png",
+                "items" : [
+                    {"Common Health Potion" : 1}
+                ]
+            }
+        },{
+            "3 Common Health Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionhealtht2.png",
+                "items" : [
+                    {"Common Health Potion" : 3}
+                ]
+            }
+        },{
+            "5 Strong Health Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionhealtht2.png",
+                "items" : [
+                    {"Strong Health Potion" : 5}
+                ]
+            }
+        },{
+            "10 Common Health Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionhealtht2.png",
+                "items" : [
+                    {"Common Health Potion" : 10}
+                ]
+            }
+        },        {
+            "1 Strong Health Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionhealtht3.png",
+                "items" : [
+                    {"Strong Health Potion" : 1}
+                ]
+            }
+        },{
+            "3 Strong Health Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionhealtht3.png",
+                "items" : [
+                    {"Strong Health Potion" : 3}
+                ]
+            }
+        },{
+            "5 Strong Health Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionhealtht3.png",
+                "items" : [
+                    {"Strong Health Potion" : 5}
+                ]
+            }
+        },{
+            "10 Strong Health Potion" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/potionhealtht3.png",
+                "items" : [
+                    {"Strong Health Potion" : 10}
+                ]
+            }
+        }       
     ],
     "Lumberjacks Needed" : [
         {
@@ -152,10 +732,26 @@ var projects = {
             }
         },
         {
+            "250 Green Wood" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/woodt1.png",
+                "items" : [
+                    {"Green Wood" : 250}
+                ]
+            }
+        },        
+        {
             "550 Green Wood" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/woodt1.png",
                 "items" : [
                     {"Green Wood" : 550}
+                ]
+            }
+        },        
+        {
+            "200 Aged Wood" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/woodt2.png",
+                "items" : [
+                    {"Aged Wood" : 200}
                 ]
             }
         }            
@@ -181,6 +777,16 @@ var projects = {
                 ]
             }
         },
+        {
+            "Crushing Crude Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ore" : 20},
+                    {"Green Wood" : 15},
+                    {"Rawhide" : 15},
+                ]
+            }
+        },        
         {
             "Plundering Crude Iron Armaments" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
@@ -271,6 +877,16 @@ var projects = {
                     {"Coarse Leather" : 7},
                 ]
             }
+        },
+        {
+            "Pillaging Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ingot" : 10},
+                    {"Timber" : 22},
+                    {"Coarse Leather" : 8},
+                ]
+            }
         },{
             "Bulwark Iron Armaments" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
@@ -325,14 +941,39 @@ var projects = {
                     {"Coarse Leather" : 5},
                 ]
             }
+        },{
+            "Reaving Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ingot" : 9},
+                    {"Timber" : 7},
+                    {"Coarse Leather" : 24},
+                ]
+            }
         }               
     ],
     "Metalworkers Needed" : [
+        {
+            "30 Iron Ingot" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/ingott2.png",
+                "items" : [
+                    {"Iron Ingot" : 30}
+                ]
+            }
+        },        
         {
             "50 Iron Ingot" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/ingott2.png",
                 "items" : [
                     {"Iron Ingot" : 50}
+                ]
+            }
+        },        
+        {
+            "90 Iron Ingot" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/ingott2.png",
+                "items" : [
+                    {"Iron Ingot" : 90}
                 ]
             }
         }         
@@ -481,10 +1122,153 @@ var projects = {
     ],
     "Supplies Needed" : [
         {
+            "10 Oil" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/oilt1.png",
+                "items" : [
+                    {"Oil" : 10}
+                ]
+            }
+        },        
+        {
             "40 Oil" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/oilt1.png",
                 "items" : [
                     {"Oil" : 40}
+                ]
+            }
+        },
+        {
+            "20 Feathers" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/feathert1.png",
+                "items" : [
+                    {"Feathers" : 20}
+                ]
+            }
+        },
+        {
+            "40 Feathers" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/feathert1.png",
+                "items" : [
+                    {"Feathers" : 40}
+                ]
+            }
+        },
+        {
+            "10 Flint" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/flintt1.png",
+                "items" : [
+                    {"Flint" : 10}
+                ]
+            }
+        },        
+        {
+            "15 Flint" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/flintt1.png",
+                "items" : [
+                    {"Flint" : 15}
+                ]
+            }
+        },        
+        {
+            "40 Flint" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/flintt1.png",
+                "items" : [
+                    {"Flint" : 40}
+                ]
+            }
+        },{
+            "250 Water" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/watert1.png",
+                "items" : [
+                    {"Water" : 250}
+                ]
+            }
+        }                        
+    ],
+    "Carpenters Needed" : [
+        {
+            "30 Timber" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/timbert2.png",
+                "items" : [
+                    {"Timber" : 30}
+                ]
+            }
+        },        
+        {
+            "50 Timber" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/timbert2.png",
+                "items" : [
+                    {"Timber" : 50}
+                ]
+            }
+        }         
+    ],
+    "Weavers Needed" : [
+        {
+            "30 Linen" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/clotht2.png",
+                "items" : [
+                    {"Linen" : 30}
+                ]
+            }
+        },
+        {
+            "60 Linen" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/clotht2.png",
+                "items" : [
+                    {"Linen" : 60}
+                ]
+            }
+        },
+        {
+            "90 Linen" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/clotht2.png",
+                "items" : [
+                    {"Linen" : 90}
+                ]
+            }
+        }                         
+    ],
+    "Harvesters Needed" : [
+        {
+            "50 Fibers" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fibert1.png",
+                "items" : [
+                    {"Fibers" : 50}
+                ]
+            }
+        },
+        {
+            "100 Fibers" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fibert1.png",
+                "items" : [
+                    {"Fibers" : 100}
+                ]
+            }
+        },
+        {
+            "150 Fibers" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fibert1.png",
+                "items" : [
+                    {"Fibers" : 150}
+                ]
+            }
+        }         
+    ],
+    "Hunters Needed" : [
+        {
+            "100 Rawhide" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/rawhidet1.png",
+                "items" : [
+                    {"Rawhide" : 100}
+                ]
+            }
+        },        
+        {
+            "150 Rawhide" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/rawhidet1.png",
+                "items" : [
+                    {"Rawhide" : 150}
                 ]
             }
         }         

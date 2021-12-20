@@ -22,7 +22,7 @@ body {
 #projects, #subProjects {
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-around;
+    justify-content: flex-start;
 }
 .projectBoard{
     border: 1px solid #503b15;
@@ -33,6 +33,7 @@ body {
     overflow: hidden;
     cursor: pointer;
     margin-bottom: 1em;
+    justify-content: flex-start;
     background: url('../img/boardBG.jpg') repeat;
 }.projectBoard.tier1{
     height: auto;
