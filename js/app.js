@@ -81,6 +81,30 @@ var projects = {
                     { "Energizing Light Ration" : 20}
                 ]
             }
+        },         
+        {
+            "5 Energizing Travel Ration" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/foodmanat2.png",
+                "items" : [
+                    { "Energizing Travel Ration" : 5}
+                ]
+            }
+        },         
+        {
+            "15 Energizing Travel Ration" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/foodmanat2.png",
+                "items" : [
+                    { "Energizing Travel Ration" : 15}
+                ]
+            }
+        },         
+        {
+            "20 Energizing Travel Ration" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/foodmanat2.png",
+                "items" : [
+                    { "Energizing Travel Ration" : 20}
+                ]
+            }
         },                   
         {
             "Condiment Supplies" :{
@@ -161,6 +185,15 @@ var projects = {
                     {"Egg" : 15},
                     {"Flour" : 15},
                     {"Yeast" : 15}
+                ]
+            }
+        },{
+            "Herb Rations" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Tarragon" : 5},
+                    {"Onion" : 5},
+                    {"Thyme" : 5},
                 ]
             }
         },{
@@ -256,6 +289,15 @@ var projects = {
                 ]
             }
         },{
+            "Salted Fish Provisions" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Firm Fish Fillet" : 8},
+                    {"Fish Oil" : 8},
+                    {"Dill" : 8},
+                ]
+            }
+        },{
             "Exotic Herb Provisions" :{
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
                 "items" : [
@@ -289,6 +331,41 @@ var projects = {
                     {"Egg" : 5},
                     {"Bread" : 5},
                     {"Sausage" : 5},
+                ]
+            }
+        },{
+            "Flavored Fish Rations" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Fish Filet" : 5},
+                    {"Butter" : 5},
+                    {"Lemon" : 5},
+                ]
+            }
+        },{
+            "Dried Meat Samples" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Pork" : 3},
+                    {"Salt" : 3},
+                ]
+            }
+        },{
+            "Dairy Supplies" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Cheese" : 12},
+                    {"Butter" : 12},
+                    {"Milk" : 12},
+                ]
+            }
+        },{
+            "Glazed Chicken Rations" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Poultry" : 5},
+                    {"Cooking Oil" : 5},
+                    {"Honey" : 5},
                 ]
             }
         }
@@ -352,10 +429,26 @@ var projects = {
             }
         }, 
         {
+            "1 Large Salmon" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fishingsalmonlarget1.png",
+                "items" : [
+                    {"Large Salmon" : 1}
+                ]
+            }
+        }, 
+        {
             "5 Large Salmon" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fishingsalmonlarget1.png",
                 "items" : [
                     {"Large Salmon" : 5}
+                ]
+            }
+        }, 
+        {
+            "1 Medium Salmon" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fishingsalmonmediumt1.png",
+                "items" : [
+                    {"Medium Salmon" : 1}
                 ]
             }
         },
@@ -436,6 +529,14 @@ var projects = {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/baitfreshwoodlicet2.png",
                 "items" : [
                     {"Woodlouse Bait" : 30}
+                ]
+            }
+        },          
+        {
+            "1 Tadpole" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/fishingtadpolessmallt2.png",
+                "items" : [
+                    {"Tadpole" : 1}
                 ]
             }
         }                                    
@@ -746,7 +847,15 @@ var projects = {
                     {"Green Wood" : 550}
                 ]
             }
-        },        
+        },     
+        {
+            "80 Aged Wood" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/woodt2.png",
+                "items" : [
+                    {"Aged Wood" : 80}
+                ]
+            }
+        },                
         {
             "200 Aged Wood" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/woodt2.png",
@@ -833,6 +942,15 @@ var projects = {
                 ]
             }
         },{
+            "Cleaving Iron Armaments" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
+                "items" : [
+                    {"Iron Ingot" : 7},
+                    {"Timber" : 8},
+                    {"Coarse Leather" : 10},
+                ]
+            }
+        },{
             "Ransacking Crude Iron Armaments" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
                 "items" : [
@@ -906,7 +1024,7 @@ var projects = {
                 ]
             }
         },{
-            "Impaling Iron Armaments" : {
+            "Impaling Iron Armaments XXX" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armaments.png",
                 "items" : [
                     {"Iron Ingot" : 6},
@@ -1118,6 +1236,46 @@ var projects = {
                     {"Linen" : 14}
                 ]
             }
+        },
+        {
+            "Set of Hardened Crude Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ore" : 20},
+                    {"Rawhide" : 15},
+                    {"Fibers" : 15}
+                ]
+            }
+        },
+        {
+            "Set of Hardened Iron Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Iron Ingot" : 10},
+                    {"Coarse Leather" : 5},
+                    {"Linen" : 10}
+                ]
+            }
+        },
+        {
+            "Set of Hardened Steel Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Steel Ingot" : 5},
+                    {"Rugged Leather" : 5},
+                    {"Sateen" : 15}
+                ]
+            }
+        },
+        {
+            "Set of Hardened Starmetal Armor" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_armorset.png",
+                "items" : [
+                    {"Starmetal Ingot" : 5},
+                    {"Layered Leather" : 7},
+                    {"Silk" : 3}
+                ]
+            }
         }               
     ],
     "Supplies Needed" : [
@@ -1170,10 +1328,32 @@ var projects = {
             }
         },        
         {
+            "20 Flint" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/flintt1.png",
+                "items" : [
+                    {"Flint" : 20}
+                ]
+            }
+        },        
+        {
             "40 Flint" : {
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/flintt1.png",
                 "items" : [
                     {"Flint" : 40}
+                ]
+            }
+        },{
+            "50 Water" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/watert1.png",
+                "items" : [
+                    {"Water" : 50}
+                ]
+            }
+        },{
+            "100 Water" : {
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/watert1.png",
+                "items" : [
+                    {"Water" : 100}
                 ]
             }
         },{
