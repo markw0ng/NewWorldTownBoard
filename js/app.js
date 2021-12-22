@@ -16,7 +16,7 @@ $(document).ready(function(){
     });     
 
 
-    drawProjectQuests(projects);
+    //drawProjectQuests(projects);
 
     // on click of main project board category
     $(document).on('click','#projects .projectBoard',function(e){
