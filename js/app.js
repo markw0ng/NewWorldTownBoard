@@ -325,6 +325,15 @@ var projects = {
                 ]
             }
         },{
+            "Meat Provisions" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Pork" : 8},
+                    {"Poultry" : 8},
+                    {"Game Meat" : 8},
+                ]
+            }
+        },{
             "Breakfast Rations" :{
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
                 "items" : [
@@ -366,6 +375,34 @@ var projects = {
                     {"Poultry" : 5},
                     {"Cooking Oil" : 5},
                     {"Honey" : 5},
+                ]
+            }
+        },{
+            "Fruit Supplies" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Strawberry" : 12},
+                    {"Cranberry" : 12},
+                    {"Blueberry" : 12},
+                ]
+            }
+        },{
+            "Vegetable Supplies" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Onion" : 12},
+                    {"Carrot" : 12},
+                    {"Corn" : 12},
+                ]
+            }
+        },{
+            "Vegetable Stockpile" :{
+                "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
+                "items" : [
+                    {"Onion" : 15},
+                    {"Carrot" : 15},
+                    {"Corn" : 15},
+                    {"Garlic" : 15},
                 ]
             }
         }
