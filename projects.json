@@ -131,7 +131,7 @@
                     {"Salt" : 15},
                     {"Peppercorn" : 15},
                     {"Cooking Oil" : 15},
-                    {"Seasoning Blend" : 15},
+                    {"Seasoning Blend" : 15}
                 ]
             }
         },            
@@ -151,7 +151,7 @@
                 "items" : [
                     {"Barley" : 12},
                     {"Nut" : 12},
-                    {"Honey" : 12},
+                    {"Honey" : 12}
                 ]
             }
         },                    
@@ -162,7 +162,7 @@
                     {"Barley" : 15},
                     {"Nut" : 15},
                     {"Honey" : 15},
-                    {"Wheat" : 15},
+                    {"Wheat" : 15}
                 ]
             }
         },            
@@ -191,7 +191,7 @@
                 "items" : [
                     {"Tarragon" : 5},
                     {"Onion" : 5},
-                    {"Thyme" : 5},
+                    {"Thyme" : 5}
                 ]
             }
         },{
@@ -200,7 +200,7 @@
                 "items" : [
                     {"Thyme" : 8},
                     {"Sage" : 8},
-                    {"Mint" : 8},
+                    {"Mint" : 8}
                 ]
             }
         },{
@@ -210,7 +210,7 @@
                     {"Thyme" : 15},
                     {"Sage" : 15},
                     {"Mint" : 15},
-                    {"Tarragon" : 15},
+                    {"Tarragon" : 15}
                 ]
             }
         },{
@@ -219,7 +219,7 @@
                 "items" : [
                     {"Cranberry" : 5},
                     {"Sugar" : 5},
-                    {"Water" : 5},
+                    {"Water" : 5}
                 ]
             }
         },{
@@ -228,7 +228,7 @@
                 "items" : [
                     {"Fish Filet" : 8},
                     {"Firm Fish Filet" : 8},
-                    {"Fish Oil" : 8},
+                    {"Fish Oil" : 8}
                 ]
             }
         },{
@@ -238,7 +238,7 @@
                     {"Fish Filet" : 15},
                     {"Firm Fish Filet" : 15},
                     {"Fish Oil" : 15},
-                    {"Squid Meat" : 15},
+                    {"Squid Meat" : 15}
                 ]
             }
         },{
@@ -247,7 +247,7 @@
                 "items" : [
                     {"Fish Filet" : 12},
                     {"Firm Fish Filet" : 12},
-                    {"Fish Oil" : 12},
+                    {"Fish Oil" : 12}
                 ]
             }
         },{
@@ -256,7 +256,7 @@
                 "items" : [
                     {"Fish Filet" : 5},
                     {"Dill" : 5},
-                    {"Fish Oil" : 5},
+                    {"Fish Oil" : 5}
                 ]
             }
         },{
@@ -264,7 +264,7 @@
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
                 "items" : [
                     {"Fish Filet" : 3},
-                    {"Fish Oil" : 3},
+                    {"Fish Oil" : 3}
                 ]
             }
         },{
@@ -273,7 +273,7 @@
                 "items" : [
                     {"Nutmeg" : 8},
                     {"Paprika" : 8},
-                    {"Ginger" : 8},
+                    {"Ginger" : 8}
                 ]
             }
         },{
@@ -283,7 +283,7 @@
                     {"Nutmeg" : 15},
                     {"Paprika" : 15},
                     {"Ginger" : 15},
-                    {"Cinnamon" : 15},
+                    {"Cinnamon" : 15}
                 ]
             }
         },{
@@ -292,7 +292,7 @@
                 "items" : [
                     {"Firm Fish Fillet" : 8},
                     {"Fish Oil" : 8},
-                    {"Dill" : 8},
+                    {"Dill" : 8}
                 ]
             }
         },{
@@ -301,7 +301,7 @@
                 "items" : [
                     {"Basil" : 8},
                     {"Oregano" : 8},
-                    {"Parsley" : 8},
+                    {"Parsley" : 8}
                 ]
             }
         },{
@@ -310,7 +310,7 @@
                 "items" : [
                     {"Red Meat" : 12},
                     {"Venison" : 12},
-                    {"Sausage" : 12},
+                    {"Sausage" : 12}
                 ]
             }
         },{
@@ -319,7 +319,7 @@
                 "items" : [
                     {"Pork" : 5},
                     {"Salt" : 5},
-                    {"Sugar" : 5},
+                    {"Sugar" : 5}
                 ]
             }
         },{
@@ -328,7 +328,7 @@
                 "items" : [
                     {"Pork" : 8},
                     {"Poultry" : 8},
-                    {"Game Meat" : 8},
+                    {"Game Meat" : 8}
                 ]
             }
         },{
@@ -337,7 +337,7 @@
                 "items" : [
                     {"Egg" : 5},
                     {"Bread" : 5},
-                    {"Sausage" : 5},
+                    {"Sausage" : 5}
                 ]
             }
         },{
@@ -346,7 +346,7 @@
                 "items" : [
                     {"Fish Filet" : 5},
                     {"Butter" : 5},
-                    {"Lemon" : 5},
+                    {"Lemon" : 5}
                 ]
             }
         },{
@@ -354,7 +354,7 @@
                 "img" : "https://cdn.nwdb.info/db/images/live/v3/icons/items_hires/faction_provisions.png",
                 "items" : [
                     {"Pork" : 3},
-                    {"Salt" : 3},
+                    {"Salt" : 3}
                 ]
             }
         },{
@@ -363,7 +363,7 @@
                 "items" : [
                     {"Cheese" : 12},
                     {"Butter" : 12},
-                    {"Milk" : 12},
+                    {"Milk" : 12}
                 ]
             }
         },{
@@ -372,7 +372,7 @@
                 "items" : [
                     {"Poultry" : 5},
                     {"Cooking Oil" : 5},
-                    {"Honey" : 5},
+                    {"Honey" : 5}
                 ]
             }
         },{
@@ -381,7 +381,7 @@
                 "items" : [
                     {"Strawberry" : 12},
                     {"Cranberry" : 12},
-                    {"Blueberry" : 12},
+                    {"Blueberry" : 12}
                 ]
             }
         },{
@@ -390,7 +390,7 @@
                 "items" : [
                     {"Onion" : 12},
                     {"Carrot" : 12},
-                    {"Corn" : 12},
+                    {"Corn" : 12}
                 ]
             }
         },{
@@ -400,7 +400,7 @@
                     {"Onion" : 15},
                     {"Carrot" : 15},
                     {"Corn" : 15},
-                    {"Garlic" : 15},
+                    {"Garlic" : 15}
                 ]
             }
         }
@@ -917,7 +917,7 @@
                 "items" : [
                     {"Iron Ingot" : 5},
                     {"Timber" : 12},
-                    {"Coarse Leather" : 8},
+                    {"Coarse Leather" : 8}
                 ]
             }
         },
@@ -927,7 +927,7 @@
                 "items" : [
                     {"Iron Ore" : 20},
                     {"Green Wood" : 15},
-                    {"Rawhide" : 15},
+                    {"Rawhide" : 15}
                 ]
             }
         },        
@@ -937,7 +937,7 @@
                 "items" : [
                     {"Iron Ore" : 10},
                     {"Green Wood" : 10},
-                    {"Rawhide" : 10},
+                    {"Rawhide" : 10}
                 ]
             }
         },{
@@ -946,7 +946,7 @@
                 "items" : [
                     {"Iron Ore" : 15},
                     {"Green Wood" : 3},
-                    {"Rawhide" : 12},
+                    {"Rawhide" : 12}
                 ]
             }
         },{
@@ -955,7 +955,7 @@
                 "items" : [
                     {"Iron Ore" : 8},
                     {"Green Wood" : 14},
-                    {"Rawhide" : 8},
+                    {"Rawhide" : 8}
                 ]
             }
         },{
@@ -964,7 +964,7 @@
                 "items" : [
                     {"Iron Ore" : 20},
                     {"Green Wood" : 20},
-                    {"Rawhide" : 10},
+                    {"Rawhide" : 10}
                 ]
             }
         },{
@@ -973,7 +973,7 @@
                 "items" : [
                     {"Iron Ore" : 15},
                     {"Green Wood" : 10},
-                    {"Rawhide" : 25},
+                    {"Rawhide" : 25}
                 ]
             }
         },{
@@ -982,7 +982,7 @@
                 "items" : [
                     {"Iron Ingot" : 7},
                     {"Timber" : 8},
-                    {"Coarse Leather" : 10},
+                    {"Coarse Leather" : 10}
                 ]
             }
         },{
@@ -991,7 +991,7 @@
                 "items" : [
                     {"Iron Ore" : 10},
                     {"Green Wood" : 20},
-                    {"Rawhide" : 20},
+                    {"Rawhide" : 20}
                 ]
             }
         },{
@@ -1000,7 +1000,7 @@
                 "items" : [
                     {"Iron Ore" : 30},
                     {"Green Wood" : 30},
-                    {"Rawhide" : 30},
+                    {"Rawhide" : 30}
                 ]
             }
         },{
@@ -1009,7 +1009,7 @@
                 "items" : [
                     {"Iron Ore" : 50},
                     {"Green Wood" : 15},
-                    {"Rawhide" : 25},
+                    {"Rawhide" : 25}
                 ]
             }
         },{
@@ -1018,7 +1018,7 @@
                 "items" : [
                     {"Iron Ore" : 25},
                     {"Green Wood" : 40},
-                    {"Rawhide" : 25},
+                    {"Rawhide" : 25}
                 ]
             }
         },{
@@ -1027,7 +1027,7 @@
                 "items" : [
                     {"Iron Ingot" : 6},
                     {"Timber" : 7},
-                    {"Coarse Leather" : 7},
+                    {"Coarse Leather" : 7}
                 ]
             }
         },
@@ -1037,7 +1037,7 @@
                 "items" : [
                     {"Iron Ingot" : 10},
                     {"Timber" : 22},
-                    {"Coarse Leather" : 8},
+                    {"Coarse Leather" : 8}
                 ]
             }
         },{
@@ -1046,7 +1046,7 @@
                 "items" : [
                     {"Iron Ingot" : 5},
                     {"Timber" : 10},
-                    {"Coarse Leather" : 5},
+                    {"Coarse Leather" : 5}
                 ]
             }
         },{
@@ -1055,7 +1055,7 @@
                 "items" : [
                     {"Iron Ingot" : 4},
                     {"Timber" : 4},
-                    {"Coarse Leather" : 12},
+                    {"Coarse Leather" : 12}
                 ]
             }
         },{
@@ -1064,7 +1064,7 @@
                 "items" : [
                     {"Iron Ingot" : 6},
                     {"Timber" : 7},
-                    {"Coarse Leather" : 7},
+                    {"Coarse Leather" : 7}
                 ]
             }
         },{
@@ -1073,7 +1073,7 @@
                 "items" : [
                     {"Iron Ingot" : 15},
                     {"Timber" : 5},
-                    {"Coarse Leather" : 5},
+                    {"Coarse Leather" : 5}
                 ]
             }
         },{
@@ -1082,7 +1082,7 @@
                 "items" : [
                     {"Iron Ingot" : 12},
                     {"Timber" : 16},
-                    {"Coarse Leather" : 12},
+                    {"Coarse Leather" : 12}
                 ]
             }
         },{
@@ -1091,7 +1091,7 @@
                 "items" : [
                     {"Iron Ingot" : 20},
                     {"Timber" : 15},
-                    {"Coarse Leather" : 5},
+                    {"Coarse Leather" : 5}
                 ]
             }
         },{
@@ -1100,7 +1100,7 @@
                 "items" : [
                     {"Iron Ingot" : 9},
                     {"Timber" : 7},
-                    {"Coarse Leather" : 24},
+                    {"Coarse Leather" : 24}
                 ]
             }
         }               
@@ -1487,5 +1487,5 @@
                 ]
             }
         }         
-    ],
+    ]
 }
